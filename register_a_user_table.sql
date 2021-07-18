@@ -1,5 +1,5 @@
 
--- Table structure for table `register`
+--- Table structure for table `register`
 
 
 CREATE TABLE IF NOT EXISTS `register` (
